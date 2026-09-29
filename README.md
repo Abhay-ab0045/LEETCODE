@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
