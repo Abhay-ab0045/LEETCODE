@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
