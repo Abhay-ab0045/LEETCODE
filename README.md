@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0242-valid-anagram) |
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0242-valid-anagram) |
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
