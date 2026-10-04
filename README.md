@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
 | ------- |
