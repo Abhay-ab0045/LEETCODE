@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
