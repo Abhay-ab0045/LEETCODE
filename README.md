@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
