@@ -282,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
