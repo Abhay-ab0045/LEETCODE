@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0099-recover-binary-search-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0099-recover-binary-search-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0099-recover-binary-search-tree) |
