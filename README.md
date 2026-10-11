@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
