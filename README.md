@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3019-number-of-changing-keys) |
 ## Tree
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 ## Design
 |  |
 | ------- |
