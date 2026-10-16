@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0027-remove-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0242-valid-anagram) |
