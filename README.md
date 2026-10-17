@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
