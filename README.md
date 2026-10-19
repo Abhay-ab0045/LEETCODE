@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
