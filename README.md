@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0399-evaluate-division) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Binary Search Tree
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Graph Theory
