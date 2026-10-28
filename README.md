@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0542-01-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
