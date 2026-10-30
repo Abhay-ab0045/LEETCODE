@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Database
 |  |
 | ------- |
@@ -505,10 +507,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0547-number-of-provinces) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
