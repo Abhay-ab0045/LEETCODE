@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0202-happy-number) |
+| [0728-self-dividing-numbers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
