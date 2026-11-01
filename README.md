@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0399-evaluate-division) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0506-relative-ranks](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
