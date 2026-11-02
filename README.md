@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0912-sort-an-array) |
