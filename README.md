@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -586,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
