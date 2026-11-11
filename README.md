@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
+| [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Iterator
 |  |
@@ -603,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
