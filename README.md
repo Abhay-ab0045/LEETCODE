@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2747-count-zero-request-servers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Polygons
 |  |
 | ------- |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Interactive
 |  |
 | ------- |
@@ -641,8 +646,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
