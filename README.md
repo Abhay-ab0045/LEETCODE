@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Quickselect
 |  |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -678,4 +681,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
