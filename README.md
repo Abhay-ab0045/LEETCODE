@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Indexed Tree
