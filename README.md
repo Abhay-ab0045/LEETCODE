@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
