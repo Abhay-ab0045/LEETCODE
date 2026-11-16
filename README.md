@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
