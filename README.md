@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2747-count-zero-request-servers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2235-add-two-integers) |
+| [2317-maximum-xor-after-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2427-number-of-common-factors) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [2317-maximum-xor-after-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2317-maximum-xor-after-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
