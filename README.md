@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2747-count-zero-request-servers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3019-number-of-changing-keys) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
