@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1672-richest-customer-wealth](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3665-twisted-mirror-path-count](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
