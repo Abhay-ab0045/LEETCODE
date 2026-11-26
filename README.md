@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2747-count-zero-request-servers](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2409-count-days-spent-together) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Abhay-ab0045/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-ab0045/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Abhay-ab0045/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Simulation
 |  |
 | ------- |
