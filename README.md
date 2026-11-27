@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0066-plus-one) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/Abhay-ab0045/LEETCODE/tree/master/0202-happy-number) |
